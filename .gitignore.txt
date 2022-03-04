@@ -8,6 +8,7 @@ creditcard.csv
 model/
 .DS_Store
 data/
+재무제표파일/
 
 # General
 .DS_Store
