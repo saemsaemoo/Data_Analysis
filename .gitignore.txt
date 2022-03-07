@@ -9,6 +9,7 @@ model/
 .DS_Store
 data/
 재무제표파일/
+/Users/kimhansaem/workspace/11.DataAnalysis/01.데이터분석/재무제표파일/
 
 # General
 .DS_Store
